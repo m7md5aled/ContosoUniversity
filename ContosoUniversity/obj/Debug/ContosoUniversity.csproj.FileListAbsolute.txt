@@ -1,0 +1,158 @@
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\csc.exe
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\vbc.exe
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Owin.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\PagedList.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\WebGrease.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\PagedList.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\mohamed.khaled\documents\visual studio 2015\Projects\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+H:\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\csc.exe
+H:\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\vbc.exe
+H:\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+H:\ContosoUniversityPractical\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+H:\ContosoUniversityPractical\ContosoUniversity\bin\ContosoUniversity.dll.config
+H:\ContosoUniversityPractical\ContosoUniversity\bin\ContosoUniversity.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\ContosoUniversity.pdb
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Antlr3.Runtime.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\EntityFramework.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.AspNet.Identity.Core.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Cookies.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Facebook.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Google.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.OAuth.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Twitter.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Newtonsoft.Json.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Owin.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\PagedList.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\PagedList.Mvc.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Helpers.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Mvc.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Optimization.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Razor.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.WebPages.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\WebGrease.dll
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\PagedList.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\PagedList.Mvc.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Helpers.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Mvc.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Optimization.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.Razor.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.WebPages.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Antlr3.Runtime.pdb
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Newtonsoft.Json.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\EntityFramework.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.AspNet.Identity.Core.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Facebook.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Cookies.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.OAuth.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Google.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.Twitter.xml
+H:\ContosoUniversityPractical\ContosoUniversity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+H:\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+H:\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+H:\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+H:\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+H:\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+H:\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+H:\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+H:\ContosoUniversityPractical\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
